@@ -1,8 +1,8 @@
 <?php
-	include 'sistema/encabezado.php';
+	include 'encabezado.php';
 	echo '
 	<form name="iniciarsesion" method="post" action="sesionsubmit.php">
-		<br><h2 align="center">Nombre de usuario:</h2>
+		<br><br><br><br><h2 align="center">Nombre de usuario:</h2>
 		<br><input type="text" name="usuario" id="usuario" style="display:block;margin:0 auto;text-align:center">
 		<br><br><br><h2 align="center">Contraseña:</h2>
 		<br><input type="password" name="contrasena" id="contrasena" style="display:block;margin:0 auto;text-align:center">

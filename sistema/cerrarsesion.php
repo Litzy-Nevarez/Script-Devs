@@ -6,6 +6,6 @@
 	session_destroy();
 	session_start();
 	session_regenerate_id();
-	include 'sistema/encabezado.php';
+	include 'encabezado.php';
 	echo "<br><br><br><br><h2>Se ha cerrado la sesión.</h2>";
 ?>

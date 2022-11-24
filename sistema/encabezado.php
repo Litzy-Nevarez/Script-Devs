@@ -25,7 +25,6 @@
 			<meta charset="utf-8">
 			<title>Market-E: Tu supermercado online</title>
 			<link rel="icon" href="imagenes/icono.png" type="image/x-icon" >
-			<link rel="stylesheet" href="estilo/estilo.css">
 		</head>
 		<body>
 			<div name="encabezado" id="encabezado" style="height:90px;width: calc(100% - 36px);background-color:#5A0202;color:white;padding:10px;position:fixed;border: none;">
@@ -60,7 +59,7 @@
 							{
 								echo '
 								<td style="min-width:200px;font-size:17px;" align="left">
-								<a href="../iniciarsesion.php" style="color:white;">Iniciar sesión</a>
+								<a href="iniciarsesion.php" style="color:white;">Iniciar sesión</a>
 								<br>
 								<br><a href="../registrarse.php" style="color:white;">Registrarse</a>
 								</td>';
