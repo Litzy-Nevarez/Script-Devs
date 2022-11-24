@@ -28,7 +28,7 @@
 			<link rel="stylesheet" href="estilo/estilo.css">
 		</head>
 		<body>
-			<div name="encabezado" id="encabezado" style="height:90px;width: calc(100% - 36px);background-color:#5A0202;color:white;padding:10px;position:fixed;">
+			<div name="encabezado" id="encabezado" style="height:90px;width: calc(100% - 36px);background-color:#5A0202;color:white;padding:10px;position:fixed;border: none;">
 				<table height="70px" align="center">
 					<tbody>
 						<tr>
