@@ -17,9 +17,8 @@
 	}
 	else
 	{
-		include 'sistema/encabezado.php';
+		include 'encabezado.php';
 		echo "
 		<br><br><br><br><h2>Nombre de usuario o contraseña incorrectos.</h2>";
 	}
-	include 'sistema/pie.php';
 ?>
